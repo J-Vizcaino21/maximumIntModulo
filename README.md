@@ -26,7 +26,7 @@ Ensure that you have Maven and Java 11 installed on your system before proceedin
 - Description: This endpoint allows setting the parameters X, Y, and N for calculating the maximum integer modulo.
 - Method: POST
 - Input Parameters: JSON with values of X, Y, and N
-- Example Usage: `POST /setparameters { "X": 7, "Y": 5, "N": 12345 }`
+- Example Usage: `POST /setparameters { "modulo": 7, "remainder": 5, "maximumNumber": 12345 }`
 
 - **/getMaximumInteger**:
 - Description: This endpoint allows get the proper calculation for the given X, Y, and N .

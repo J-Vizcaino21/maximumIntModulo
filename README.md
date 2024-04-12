@@ -20,7 +20,7 @@ mvn spring-boot:run
 Ensure that you have Maven and Java 11 installed on your system before proceeding.
 
 
-## Endpoints de la Aplicación:
+## Endpoints:
 
 - **/setParameters**:
 - Description: This endpoint allows setting the parameters X, Y, and N for calculating the maximum integer modulo.
@@ -35,7 +35,7 @@ Ensure that you have Maven and Java 11 installed on your system before proceedin
 - Example Usage: `GET /getMaximumInteger`
 
 
-### Front can be clone using the following link:
+### The frontend must be cloned using the following link:
 https://github.com/J-Vizcaino21/maximumIntFront
 
 
